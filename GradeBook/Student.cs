@@ -44,6 +44,7 @@ namespace GradeBook
         public void RemoveGrade(double grade)
         {
             Grades.Remove(grade);
+            kutas i cipka
         }
     }
 }
